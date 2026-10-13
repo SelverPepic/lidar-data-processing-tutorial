@@ -4,4 +4,4 @@ A short tutorial on processing LIDAR data, from raw to 3D point cloud, and then 
 
 ![LIDAR data all](https://github.com/SelverPepic/lidar-data-processing-tutorial/blob/main/figures/LIDAR%20data%20all.png)
 ![LIDAR data ground](https://github.com/SelverPepic/lidar-data-processing-tutorial/blob/main/figures/LIDAR%20data%20ground.png)
-![LIDAR data outlier(https://github.com/SelverPepic/lidar-data-processing-tutorial/blob/main/figures/LIDAR%20data%20outlier.png)
+![LIDAR data outlier](https://github.com/SelverPepic/lidar-data-processing-tutorial/blob/main/figures/LIDAR%20data%20outlier.png)
